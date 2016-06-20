@@ -1,0 +1,26 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Umm..I just spotted the typo in the word "space" which was written as "spacr".
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+I could easily spot my mistakes in the version by quickly comparing it with the old one and hence 
+save a lot of time.
+
+Why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Don't know.Don't care.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Umm thats what they are there for!
+
+How might using version control make you more confident to make changes that could break something?
+
+Even if I break something I could easily go back to the unbroken state.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+ugh.
